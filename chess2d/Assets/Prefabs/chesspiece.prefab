@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7883051214915253660}
   - component: {fileID: 4070726345745041866}
+  - component: {fileID: 2470201467314032245}
   m_Layer: 0
   m_Name: chesspiece
   m_TagString: Untagged
@@ -79,3 +80,29 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &2470201467314032245
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4006943929014655732}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d84893a081bd680489a872e82e337201, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  controller: {fileID: 0}
+  moveplate: {fileID: 0}
+  black_queen: {fileID: 0}
+  black_knight: {fileID: 0}
+  black_bishop: {fileID: 0}
+  black_king: {fileID: 0}
+  black_rock: {fileID: 0}
+  black_pawn: {fileID: 0}
+  white_queen: {fileID: 0}
+  white_knight: {fileID: 0}
+  white_bishop: {fileID: 0}
+  white_king: {fileID: 0}
+  white_rock: {fileID: 0}
+  white_pawn: {fileID: 0}
